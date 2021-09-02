@@ -2,7 +2,7 @@
 
 /bin/bash ~/suckless/scripts/dwm-status.sh &
 /bin/bash ~/suckless/scripts/dwm-wallpaper.sh &
-xinput --set-prop 11 "libinput Tapping Enabled" 1
+xinput --set-prop 12 "libinput Tapping Enabled" 1
 dunst &
 picom -b
 fcitx5 &

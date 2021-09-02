@@ -31,6 +31,7 @@ xorg-xbacklight
 
 | 快捷键                   | 描述                          |
 |--------------------------|-------------------------------|
+| `MODKEY` `d`             | 打开`dmenu`                   |
 | `MODKEY` `p`             | 打开`rofi`                    |
 | `MODKEY` `Enter`         | 打开终端                      |
 | `MODKEY` `Shift` `w`     | 切换壁纸                      |
